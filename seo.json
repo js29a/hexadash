@@ -1,0 +1,14 @@
+{
+  "norm": {
+    "%description%": "Old-school turn based browser puzzle game similar to famous Boulder Dash but on hexes.",
+    "%url%": "https://hexadash.com.pl/",
+    "%title%": "HexaDash - old-school hex-based puzzle game",
+    "%image%": "https://hexadash.com.pl/img/screen_1.png"
+  },
+  "editor": {
+    "%description%": "Level editor for HexaDash - old-school turn based browser puzzle game similar to famous Boulder Dash but on hexes.",
+    "%url%": "https://hexadash.com.pl?share=editor",
+    "%title%": "HexaDash - level editor",
+    "%image%": "https://hexadash.com.pl/img/screen_e.png"
+  }
+}
